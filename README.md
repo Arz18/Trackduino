@@ -3,7 +3,8 @@ El Trackduino es un proyecto que usa un Arduino Nano y un Sim7000g para recibir 
 
 El Trackduino sigue el siguiente flujo.
 
-![image](https://github.com/user-attachments/assets/dbe68c5e-ee01-4382-ba90-87ae6fb3653c)
+![image](https://github.com/user-attachments/assets/5ab970cb-69a5-4088-b351-adcc1219f36e)
+
 
 Este es el esquematico utilizado. 
 
