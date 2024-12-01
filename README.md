@@ -7,7 +7,8 @@ El Trackduino sigue el siguiente flujo.
 
 Este es el esquematico utilizado. 
 
-![image](https://github.com/user-attachments/assets/64270cf3-6996-472b-8796-547b1842afec)
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/c087d709-4778-4b6a-a1c5-f96d39352939">
+
 
 Leyenda del esquematico, identificado por el color usado. 
 
