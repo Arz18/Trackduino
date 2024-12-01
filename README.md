@@ -2,7 +2,7 @@
 El ArduTracker es un proyecto que usa un Arduino Nano y un Sim7000g para recibir comandos por SMS y enviar las coordenadas del dispositivo. Este proyecto busca solucionar el problema de perder el auto en un estacionamiento. Con el enviar un SMS puedes saber donde estacionaste tu auto. 
 
 El Ardutracker sigue el siguiente flujo:
-![image](https://github.com/user-attachments/assets/3feeef0c-8206-443d-bf42-d54d08b57275)
+![image](https://github.com/user-attachments/assets/dbe68c5e-ee01-4382-ba90-87ae6fb3653c)
 
 Este es el esquematico utilizado. 
 ![image](https://github.com/user-attachments/assets/64270cf3-6996-472b-8796-547b1842afec)
