@@ -16,3 +16,6 @@ Leyenda del esquematico, identificado por el color usado.
 Comportamiento esperado en el patron de luces LED.
 
 ![image](https://github.com/user-attachments/assets/1f8c65ee-49dd-4852-9fb7-cd1c57f846b4)
+
+Link Amazon Sim7000g utilizado:
+https://a.co/d/5tYY5KX
