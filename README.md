@@ -1,7 +1,7 @@
-# ArduTracker
-El ArduTracker es un proyecto que usa un Arduino Nano y un Sim7000g para recibir comandos por SMS y enviar las coordenadas del dispositivo. Este proyecto busca solucionar el problema de perder el auto en un estacionamiento. Con el enviar un SMS puedes saber donde estacionaste tu auto. 
+# Trackduino
+El Trackduino es un proyecto que usa un Arduino Nano y un Sim7000g para recibir comandos por SMS y enviar las coordenadas del dispositivo. Este proyecto busca solucionar el problema de perder el auto en un estacionamiento. Con el enviar un SMS puedes saber donde estacionaste tu auto. 
 
-El Ardutracker sigue el siguiente flujo.
+El Trackduino sigue el siguiente flujo.
 
 ![image](https://github.com/user-attachments/assets/dbe68c5e-ee01-4382-ba90-87ae6fb3653c)
 
