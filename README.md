@@ -18,5 +18,8 @@ Comportamiento esperado en el patron de luces LED.
 
 ![image](https://github.com/user-attachments/assets/1f8c65ee-49dd-4852-9fb7-cd1c57f846b4)
 
-Link Amazon Sim7000g utilizado:
-https://a.co/d/5tYY5KX
+Componentes:
+Sim7000g: https://www.waveshare.com/wiki/SIM7000E_NB-IoT_HAT
+Amazon Sim7000g: https://a.co/d/5tYY5KX
+
+Arduino NANO: https://store.arduino.cc/products/arduino-nano
