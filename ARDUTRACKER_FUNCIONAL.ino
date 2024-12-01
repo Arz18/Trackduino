@@ -88,7 +88,7 @@ void setup() {
 
 void loop() {
   // Verificar si hay un SMS entrante para que encienda el LED en el Arduino
-  if (sim7000.available() > 0) {
+  if (sim7000.available() > 0) { //SI RECIBE SMS PRENDE VERDE
     digitalWrite(led_verde, HIGH);
     String smsContent = sim7000.readString();  // Leer todo el contenido del SMS
     Serial.print("SMS recibido: ");
@@ -151,6 +151,7 @@ void parseGNSSData(String data) {
     }
 
     // Verificar que tenemos al menos 5 campos para latitud y longitud
+    
     if (numFields >= 5) {
       String runStatus = fields[0];
       String fixStatus = fields[1]; // Fix del GPS
