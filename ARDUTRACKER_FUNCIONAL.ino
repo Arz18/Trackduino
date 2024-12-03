@@ -164,7 +164,7 @@ void parseGNSSData(String data) {
       Serial.println("Latitud almacenada: " + latitude);
       Serial.println("Longitud almacenada: " + longitude);
       
-      // Verificar el fixStatus
+      // Verificar el fixStatus. EJEMPLO: +CGNSINF: 1,1,20241203172725.000,18.xxxxxx,-65.xxxxxx,158.800
   if (fixStatus == "1") {
     // Hay fijación GNSS válida
     blink(1);  // Parpadea el LED azul (PPS)
