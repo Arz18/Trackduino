@@ -195,7 +195,7 @@ void sendLocationSMS() {
     delay(3000);
     printResponse();
 
-    sim7000.println("AT+CMGS=\"+17875167622\"");  // Cambia a tu número
+    sim7000.println("AT+CMGS=\"+1xxxxxxxxxx\"");  // Insertar numero de telefono de la persona que recibira los mensajes 
     delay(5000);  // Aumentar el tiempo de espera para asegurar que el módulo esté listo
     printResponse();
 
@@ -209,7 +209,7 @@ void sendLocationSMS() {
     delay(3000);
     printResponse();
 
-    sim7000.println("AT+CMGS=\"+17875167622\"");  // Numero de telefono de la persona que recibira los mensajes 
+    sim7000.println("AT+CMGS=\"+1xxxxxxxxxx\"");  // Insertar numero de telefono de la persona que recibira los mensajes 
     delay(5000);  // Aumentar el tiempo de espera para asegurar que el módulo esté listo
     printResponse();
 
